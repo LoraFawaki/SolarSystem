@@ -15,6 +15,13 @@ public class SolarSystem {
 
         xros.size = "21321";
         xros.color = "yellow";
+
+        planet2 preox = new planet2();
+        preox.color = "red";
+        preox.size = "1m";
+        preox.radius = "3m";
+
+
         
     }
 }
