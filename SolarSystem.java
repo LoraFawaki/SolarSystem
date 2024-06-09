@@ -7,22 +7,24 @@ public class SolarSystem {
         solar.planet = "2";
         solar.star = "2";
 
-
-
-        //------
+      //------
 
         featureSun xros = new featureSun();
 
         xros.size = "21321";
         xros.color = "yellow";
 
-
         Planet1 renox = new Planet1();
         renox.color= "green";
         renox.radius="5m";
         renox.size="10k";
 
-        
+        planet2 preox = new planet2();
+        preox.color = "red";
+        preox.size = "1m";
+        preox.radius = "3m";
+
+
     }
 
 }
